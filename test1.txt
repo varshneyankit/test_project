@@ -8,4 +8,4 @@ changing file in clonned project.
 
 this is a change from main branch of project1.
 
-D is an alphabet.
+E is an alphabet.
